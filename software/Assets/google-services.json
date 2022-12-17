@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632686680356",
+    "firebase_url": "https://exhibitionmanagerar-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "exhibitionmanagerar",
+    "storage_bucket": "exhibitionmanagerar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632686680356:android:71c29556a67e0f1f39fbb1",
+        "android_client_info": {
+          "package_name": "cz.cvut.fel.exhibitionmanagerar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632686680356-2solcghmbs85rij62grca1uvhed6d4ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRal68_sqEjCUCLa2yC6anJadj6d3aWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632686680356-2solcghmbs85rij62grca1uvhed6d4ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

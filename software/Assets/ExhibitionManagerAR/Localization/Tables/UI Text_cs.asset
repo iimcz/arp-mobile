@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 577fdf00273da564486e65d2b98965b3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 60337340416
+    m_Localized: "Upravit sc\xE9nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1709961297920
+    m_Localized: "Prohl\xED\u017Eet sc\xE9ny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250237321216
+    m_Localized: "N\xE1zev sc\xE9ny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290252083200
+    m_Localized: "Zadejte n\xE1zev sc\xE9ny..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7675322744832
+    m_Localized: "Vytvo\u0159it sc\xE9nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8131973398528
+    m_Localized: "P\u0159idat\nexpon\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8359535362048
+    m_Localized: "Smazat v\u0161echny expon\xE1ty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8851615301632
+    m_Localized: "P\u0159epnout viditelnost m\xEDstnosti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9835502551040
+    m_Localized: "Na\u010D\xEDst sc\xE9nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10046044028928
+    m_Localized: "Smazat v\u0161echny sc\xE9ny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30647244734464
+    m_Localized: "P\u0159epnout na angli\u010Dtinu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2897780765650944
+    m_Localized: "Naskenovat QR k\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3317512912269312
+    m_Localized: "Z QR k\xF3du"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3960146395688960
+    m_Localized: "Vytvo\u0159it novou sc\xE9nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967454093799424
+    m_Localized: Vybrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3969499957850112
+    m_Localized: "Spr\xE1vce Expozice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3972651121668096
+    m_Localized: "Vygenerovat n\xE1hodn\xFD n\xE1zev"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3975636895690752
+    m_Localized: "Ulo\u017Eit QR k\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3999032886980608
+    m_Localized: Vybrat ze seznamu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604330105171968
+    m_Localized: "P\u0159ipnout menu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7689498274852864
+    m_Localized: Viditelnost menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8334976599486464
+    m_Localized: Posunout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8335775425654784
+    m_Localized: "Oto\u010Dit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8335823437852672
+    m_Localized: "Zm\u011Bnit velikost"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338193924255744
+    m_Localized: Smazat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930179030151168
+    m_Localized: Doleva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930224366383104
+    m_Localized: Doprava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930259271380992
+    m_Localized: "Dop\u0159edu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930310362198016
+    m_Localized: Dozadu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10935616689434624
+    m_Localized: Nahoru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10935654907932672
+    m_Localized: "Dol\u016F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11631023753031680
+    m_Localized: "Zv\u011Bt\u0161it"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11631094984896512
+    m_Localized: "Zmen\u0161it"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001692835246080
+    m_Localized: NAHORU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001738884509696
+    m_Localized: DOPRAVA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001780944990208
+    m_Localized: "DOP\u0158EDU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096106093998080
+    m_Localized: "Oto\u010Dit vpravo/\nvlevo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096176126291968
+    m_Localized: "Naklonit dop\u0159edu/\ndozadu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13106473738203136
+    m_Localized: 'Naklonit vpravo/
+
+      vlevo'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15236249974239232
+    m_Localized: Ze seznamu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15239408746524672
+    m_Localized: "P\u0159epnout lokalizaci m\xEDstnosti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15547374863413248
+    m_Localized: "Zkop\xEDrovat sc\xE9nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15597424855511040
+    m_Localized: "Vyberte m\xEDstnost, DO KTER\xC9 BUDE SC\xC9NA ZKOP\xCDROV\xC1NA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15642161624936448
+    m_Localized: "Po\u010Dkejte, dokud se barevn\xE9 body nebudou p\u0159ekr\xFDvat
+      s objekty v re\xE1ln\xE9m sv\u011Bt\u011B. Pot\xE9 klikn\u011Bte na tla\u010D\xEDtko
+      Hotovo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15643508281733120
+    m_Localized: Hotovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15655288617857024
+    m_Localized: "Vyberte m\xEDstnost a sc\xE9nu, KTER\xC1 BUDE ZKOP\xCDROV\xC1NA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16049921109815296
+    m_Localized: "Posouvejte a rotujte m\xEDstnost, dokud se expon\xE1ty nezobraz\xED
+      na spr\xE1vn\xFDch pozic\xEDch v re\xE1ln\xE9m sv\u011Bt\u011B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16628858068168704
+    m_Localized: "Oto\u010Dit vlevo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16628977979125760
+    m_Localized: "Oto\u010Dit vpravo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16629104387059712
+    m_Localized: Naklodit dozadu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16629347056906240
+    m_Localized: "Naklonit dop\u0159edu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22817015629377536
+    m_Localized: "Prob\xEDh\xE1 automatick\xE9 zarovn\xE1n\xED. Pros\xEDm po\u010Dkejte,
+      dokud se proces nedokon\u010D\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22818834216677376
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22818899442298880
+    m_Localized: "Ne, zarovnat manu\xE1ln\u011B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26814426110521344
+    m_Localized: "Nejprve vyberte m\xEDstnost, do kter\xE9 bude sc\xE9na vytvo\u0159ena.
+      N\xE1zev sc\xE9ny bude mo\u017En\xE9 zadat v n\xE1sleduj\xEDc\xEDm kroce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26832015264083968
+    m_Localized: "Sc\xE9na byla \xFAsp\u011B\u0161n\u011B vytvo\u0159ena."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26832100475564032
+    m_Localized: "Pokud chcete upravit sc\xE9nu (p\u0159idat expon\xE1ty, h\xFDbat
+      s nimi, ot\xE1\u010Det je apod.), vyberte Upravit sc\xE9nu v hlavn\xEDm menu.\n\nPokud
+      si chcete prohl\xE9dnout sc\xE9ny, kter\xE9 jste Vy nebo jin\xED u\u017Eivatel\xE9
+      vytvo\u0159ili, vyberte Prohl\xED\u017Eet sc\xE9ny v hlavn\xEDm menu.\n\nPo
+      kliknut\xED na tla\u010D\xEDtko OK budete p\u0159esunuti zp\u011Bt do hlavn\xEDho
+      menu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26844166456373248
+    m_Localized: "Vyberte, jak\xFDm zp\u016Fsobem chcete na\u010D\xEDst sc\xE9nu,
+      kterou budete upravovat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46076454889091072
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46076523604373504
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46077352516284416
+    m_Localized: "Opravdu se chcete vr\xE1tit do hlavn\xEDho menu?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

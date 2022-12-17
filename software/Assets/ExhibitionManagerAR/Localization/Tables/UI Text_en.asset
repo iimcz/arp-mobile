@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 577fdf00273da564486e65d2b98965b3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 60337340416
+    m_Localized: Edit scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1709961297920
+    m_Localized: View scenes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250237321216
+    m_Localized: Scene name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290252083200
+    m_Localized: Enter scene name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7675322744832
+    m_Localized: Create scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8131973398528
+    m_Localized: 'Add
+
+      exhibit'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8359535362048
+    m_Localized: Delete all exhibits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8851615301632
+    m_Localized: Toggle room visibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9835502551040
+    m_Localized: Load scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10046044028928
+    m_Localized: Delete all scenes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30647244734464
+    m_Localized: Switch to Czech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2897780765650944
+    m_Localized: Scan a QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3317512912269312
+    m_Localized: From a QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3960146395688960
+    m_Localized: Create new scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967454093799424
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3969499957850112
+    m_Localized: Exhibition Manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3972651121668096
+    m_Localized: Generate random name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3975636895690752
+    m_Localized: Save QR code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3999032886980608
+    m_Localized: Select from a list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604330105171968
+    m_Localized: Pin menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7689498274852864
+    m_Localized: Menu visibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8334976599486464
+    m_Localized: Move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8335775425654784
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8335823437852672
+    m_Localized: Scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8338193924255744
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930179030151168
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930224366383104
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930259271380992
+    m_Localized: Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10930310362198016
+    m_Localized: Backward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10935616689434624
+    m_Localized: Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10935654907932672
+    m_Localized: Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11631023753031680
+    m_Localized: Scale up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11631094984896512
+    m_Localized: Scale down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001692835246080
+    m_Localized: UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001738884509696
+    m_Localized: RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13001780944990208
+    m_Localized: FORWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096106093998080
+    m_Localized: Yaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096176126291968
+    m_Localized: Pitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13106473738203136
+    m_Localized: Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15236249974239232
+    m_Localized: From a list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15239408746524672
+    m_Localized: Toggle room localization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15547374863413248
+    m_Localized: Copy scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15597424855511040
+    m_Localized: Select the room, INTO WHICH THE SCENE WILL BE COPIED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15642161624936448
+    m_Localized: Wait until the colored dots are aligned with the real world (the
+      room and objects in it). Then press the Done button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15643508281733120
+    m_Localized: Done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15655288617857024
+    m_Localized: Select the room and scene WHICH WILL BE COPIED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16049921109815296
+    m_Localized: Move and rotate the room, until the exhibits appear in the right
+      positions in the real world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16628858068168704
+    m_Localized: Turn left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16628977979125760
+    m_Localized: Turn right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16629104387059712
+    m_Localized: Pitch up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16629347056906240
+    m_Localized: Pitch down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22817015629377536
+    m_Localized: Automatic alignment is in process. Please wait until the process
+      is finished.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22818834216677376
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22818899442298880
+    m_Localized: No, align manually
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26814426110521344
+    m_Localized: First, select the room into which the scene will be created. The
+      name of the scene will be set in the next step.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26832015264083968
+    m_Localized: The scene has been created successfully.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26832100475564032
+    m_Localized: 'If you wish to edit a scene (add, move, rotate exhibits, etc.),
+      choose Edit scene in the main menu.
+
+
+      If you wish to view scenes that
+      have been created by you or other users, choose View scene in the main menu.
+
+
+      Pressing
+      the OK button will move you back to the main menu.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26844166456373248
+    m_Localized: Select which way you'll load the scene that you want to edit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46076454889091072
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46076523604373504
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46077352516284416
+    m_Localized: Do you really want to return to the main menu?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
