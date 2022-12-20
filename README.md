@@ -8,4 +8,4 @@ Aplikace je řešena jako nativní aplikace pro mobilní zařízení na platform
 
 Celková dokumentace k aplikaci AR prezentér pro mobilní zařízení je dostupná zde:
 
-[AR aplikace pro přípravu a náhled virtuální scény - dokumentace](./docs/ar_dokumentace.pdf)
+[AR aplikace pro přípravu a náhled virtuální scény - dokumentace ID ASW-13210-2022-02](./docs/ar_dokumentace.pdf)
